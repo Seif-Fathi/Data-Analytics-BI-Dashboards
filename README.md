@@ -1,6 +1,8 @@
-# Advanced Data Analytics & BI
+# Seif Fathi | Data Analytics & Business Intelligence Portfolio
 
-Welcome to my professional data analytics and business intelligence repository. This repository serves as a curated showcase of end-to-end projects demonstrating expertise in SQL engineering, data pipelines, corporate BI dashboards, and production-ready machine learning.
+This repository serves as my data analytics and business intelligence portfolio, showcasing end-to-end projects covering data engineering, SQL, Python, machine learning, and Power BI.
+
+Each project includes documentation explaining the business problem, technical implementation, and key design decisions.
 
 ---
 
