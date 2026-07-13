@@ -6,6 +6,14 @@ Each project includes documentation explaining the business problem, technical i
 
 ---
 
+## Portfolio at a Glance
+
+- Featured Projects
+- Power BI, SQL, Python & Machine Learning
+- Comprehensive Technical Documentation
+- End-to-End Analytics Workflows
+
+---
 ## Featured Projects
 
 | Project Name | Domain | Core Tech Stack | Deep Dive Link |
