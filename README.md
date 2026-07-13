@@ -16,7 +16,8 @@ Welcome to my professional data analytics and business intelligence repository. 
 
 ## Technical Proficiencies Demonstrated Here
 * **Database & Engineering:** Relational Database Schema Design, SQL (MySQL / SQL Server), Connection Strings & Data Pipelines (SQLAlchemy).
-* **Corporate BI & Visualization:** Interactive Power BI Dashboards, Data Modeling, DAX, Analytical Funnel Mapping (Matplotlib, Seaborn).
+* **Corporate BI & Scalable Visualization:** Reusable Power BI Templates (.pbit), Custom Theme Design (JSON), Spatial Mapping (GeoJSON), Robust Data Modeling, and DAX.
+* **Exploratory Data Analysis & Funnels:** Behavioral Conversion Funnels, Custom Visualization (Matplotlib, Seaborn), and Feature Engineering.
 * **Statistical Inference:** Normality Testing, Non-Parametric Inference (Mann-Whitney U), Chi-Square Testing, Confidence Intervals (SciPy).
 * **Machine Learning:** Feature Engineering, Target Leakage Elimination, Class-Balanced Random Forest Classification (Scikit-Learn).
 
