@@ -10,6 +10,7 @@ Welcome to my professional data analytics and business intelligence repository. 
 | :--- | :--- | :--- | :--- |
 | **E-Commerce Conversion & Predictive ML** | E-Commerce / Financial Analytics | Python, MySQL, SciPy, Scikit-Learn | [View Project Details](./ECommerce-Predictive-ML) |
 | **End-to-End Analytics Pipeline (Olist)** | E-Commerce / Business Intelligence | Python, SQL Server, Power BI | [View External Repository](https://github.com/Seif-Fathi/Olist-E2E-Data-Engineering-BI) |
+| **Power BI Templates Library** | Multi-Domain BI Development | Power BI (PBIX/PBIT), Python, Power Query (M), DAX, JSON/GeoJSON | [View External Repository](https://github.com/Seif-Fathi/powerbi-templates-library) |
 
 ---
 
