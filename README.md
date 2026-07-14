@@ -18,8 +18,8 @@ Each project includes documentation explaining the business problem, technical i
 
 | Project Name | Domain | Core Tech Stack | Deep Dive Link |
 | :--- | :--- | :--- | :--- |
-| **Power BI Templates Library** | Multi-Domain BI Development | Power BI (PBIX/PBIT), Python, Power Query (M), DAX, JSON/GeoJSON | [View External Repository](https://github.com/Seif-Fathi/powerbi-templates-library) |
-| **End-to-End Analytics Pipeline (Olist)** | E-Commerce / Business Intelligence | Python, SQL Server, Power BI | [View External Repository](https://github.com/Seif-Fathi/Olist-E2E-Data-Engineering-BI) |
+| **Power BI Templates Library** | Multi-Domain BI Development | Power BI (PBIX/PBIT), Python, Power Query (M), DAX, JSON/GeoJSON | [GitHub Repository →](https://github.com/Seif-Fathi/powerbi-templates-library) |
+| **End-to-End Analytics Pipeline (Olist)** | E-Commerce / Business Intelligence | Python, SQL Server, Power BI | [GitHub Repository →](https://github.com/Seif-Fathi/Olist-E2E-Data-Engineering-BI) |
 | **E-Commerce Conversion & Predictive ML** | E-Commerce / Financial Analytics | Python, MySQL, SciPy, Scikit-Learn | [View Project Details](./ECommerce-Predictive-ML) |
 | **Statistical Inference on NHANES Data** | Healthcare / Demographic Analytics | Python, Statsmodels, SciPy, Seaborn, Pandas | [View Project Details](https://github.com/Seif-Fathi/Data-Analytics-BI-Dashboards/blob/main/NHANES-Public-Health-Statistical-EDA) |
 ---
